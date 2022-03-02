@@ -3,9 +3,7 @@ declare(strict_types=1);
 
 namespace rpc\oa;
 
-interface UserServiceInter
+interface operate
 {
-    public function getUserInfo(int $userId) : string;
-
-    public function getUserList(int $page, int $pageSize, array $params = []) : string;
+    public function add(int $a,int $b) : int;
 }
