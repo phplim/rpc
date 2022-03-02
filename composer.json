@@ -3,7 +3,7 @@
     "description": "rpc",
     "license": "Apache-2.0",
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.0"
     },
     "authors": [{
         "name": "WayrenChen",
