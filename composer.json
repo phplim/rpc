@@ -11,7 +11,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "rpc\\oa\\": "src/oa/",
+            "rpc\\oa\\": "src/oa/"
         },
     },
     "minimum-stability": "dev"
